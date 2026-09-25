@@ -3,8 +3,8 @@
 This repository publishes the public, non-operational orientation page for HNT Empire.
 
 - Public guide: <https://44rive.github.io/hnt-empire-guide/>
-- New Sovereign Command Center canary: <http://phoenix.tailc9486b.ts.net:8097/>
-  (Phoenix tailnet required)
+- Approved Sovereign Command Center design:
+  <https://44rive.github.io/hnt-empire-sovereign-command-center/>
 - Production source: private; operational details, credentials, topology, and evidence do not
   belong in this repository.
 
